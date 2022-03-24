@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h6 align="left"> Frontend:</h6>
+<h5 align="left"> Frontend:</h5>
 <p align="left">
   <!-- html5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h6 align="left"> Backend:</h6>
+<h5 align="left"> Backend:</h5>
 <p align="left">
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<h6 align="left"> Databases:</h6>
+<h5 align="left"> Databases:</h5>
 <p align="left">
   <!-- mongo DB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-<h6 align="left"> Others: </h6>
+<h5 align="left"> Others: </h5>
 <p6 align="left"> 
 
   <!-- git -->
