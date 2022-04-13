@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤟, I'm Andrew Wu</h1>
-<h3 align="left">A passionate backend developer committed to creating better performance and user experience.</h3>
+<h3 align="left">A passionate full-stack developer committed to creating better performance and user experience.</h3>
 
 - 🌱 I’m currently learning **AWS / IAM,VPC,EC2,RDS,S3 & Data structure & expected to learn GraphQL**
 
