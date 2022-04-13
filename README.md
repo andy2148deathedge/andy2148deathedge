@@ -7,7 +7,7 @@
 
 - 👨‍💻 I regularly write articles on [my Notion Page](https://grateful-trunk-685.notion.site/Andrew-Wu-Page-f34ddbc231984641a9bf1a6ded4deaa9)
 
-- 📫 How to reach me **andy2148deathedge@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/andrew-wu-0b16b6237/** My Linkedin
 
 - 📄 Know about my experiences: [My Resume](https://www.cakeresume.com/wu-yi)
 
